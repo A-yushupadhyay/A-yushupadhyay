@@ -1,4 +1,4 @@
-## Hi there 👋 I am Ayush Upadhyay
+## Hi there 👋 I'm Ayush Upadhyay
 
 <!--
 **A-yushupadhyay/A-yushupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,3 +36,16 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=A-yushupadhyay&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+## 🐍 Contribution Snake
+
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+###
+
+
+
+

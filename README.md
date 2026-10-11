@@ -45,7 +45,7 @@ More: [FinSphere](https://github.com/A-yushupadhyay/Finsphere) (Next.js banking 
 
 ### LLM Evaluation Platform
 
-<img src="assests/llm-eval-pipeline.svg" alt="One experiment run: dashboard, API, Redis queue, worker, LLM call, similarity scoring, PostgreSQL, leaderboard." width="100%" />
+<img src="assests/llm_eval_pipeline.svg" alt="One experiment run: dashboard, API, Redis queue, worker, LLM call, similarity scoring, PostgreSQL, leaderboard." width="100%" />
 
 - **Problem:** choosing a prompt or model by eye does not scale or repeat.
 - **What I built:** multi-prompt, multi-model experiments queued in Redis and run by an async worker. Each output is scored by semantic similarity (sentence-transformers `all-MiniLM-L6-v2`), with per-call latency and token-based cost tracked and a leaderboard on top.

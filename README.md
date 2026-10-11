@@ -107,8 +107,8 @@ Familiar from coursework, not yet used in a project: LangChain, NLP and text min
 | Platform | Result |
 |---|---|
 | [Codeforces](https://codeforces.com/profile/puskaru2003) | Specialist, max rating 1478 |
-| LeetCode | Rating 1800+ |
-| [CodeChef](https://www.codechef.com/users/ayus124) | 4-star |
+| [LeetCode](https://leetcode.com/u/ayu-_s7) | 690+ solved,  max rating 1800+ |
+| [CodeChef](https://www.codechef.com/users/ayus124) | 4-star , max rating 1800+ |
 
 800+ problems solved, mostly in C++ (graphs, DP, trees).
 

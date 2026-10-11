@@ -45,7 +45,7 @@ More: [FinSphere](https://github.com/A-yushupadhyay/Finsphere) (Next.js banking 
 
 ### LLM Evaluation Platform
 
-<img src="assests/mlm-eval-pipeline.svg" alt="One experiment run: dashboard, API, Redis queue, worker, LLM call, similarity scoring, PostgreSQL, leaderboard." width="100%" />
+<img src="assests/llm-eval-pipeline.svg" alt="One experiment run: dashboard, API, Redis queue, worker, LLM call, similarity scoring, PostgreSQL, leaderboard." width="100%" />
 
 - **Problem:** choosing a prompt or model by eye does not scale or repeat.
 - **What I built:** multi-prompt, multi-model experiments queued in Redis and run by an async worker. Each output is scored by semantic similarity (sentence-transformers `all-MiniLM-L6-v2`), with per-call latency and token-based cost tracked and a leaderboard on top.
@@ -57,7 +57,7 @@ More: [FinSphere](https://github.com/A-yushupadhyay/Finsphere) (Next.js banking 
 ---
 
 ### Recommendation Engine
-<img src="assests/recommendation-serving.svg" alt="Offline training pipeline feeding DynamoDB, and the online path through Redis cache, DynamoDB lookup, and trending-items fallback." width="100%" />
+<img src="assests/recommendation_serving.svg" alt="Offline training pipeline feeding DynamoDB, and the online path through Redis cache, DynamoDB lookup, and trending-items fallback." width="100%" />
 
 - **Problem:** build the full path from model to serving, not just a notebook.
 - **What I built:** item-item collaborative filtering evaluated on a time-split holdout. Precision@10 is 0.0295 against 0.0263 for a popularity baseline, a **+12.2% relative** lift. Served through FastAPI with DynamoDB and Redis caching.

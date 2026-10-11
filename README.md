@@ -1,52 +1,122 @@
-## Hi there 👋 I'm Ayush Upadhyay
+<div align="center">
 
-<!--
-**A-yushupadhyay/A-yushupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/hero.svg" alt="Ayush Upadhyay: Backend Systems, Python, GenAI. Open to SDE-1, backend and GenAI engineer roles." width="100%" />
 
-Here are some ideas to get you started:
+[**Projects**](#featured-projects) &nbsp;·&nbsp; [**Skills**](#skills) &nbsp;·&nbsp; [**Competitive programming**](#competitive-programming) &nbsp;·&nbsp; [**Contact**](#contact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
+## About
 
+2026 B.Tech CSE graduate (BIET Jhansi). I build **Python/FastAPI backends and RAG-based LLM applications**, and I care most about the parts demos usually skip: retries, fallbacks, guardrails, tests, and measuring what the system actually does.
 
+- **Latest:** [SupportFlow AI](https://github.com/A-yushupadhyay/supportflow-ai), a live RAG support-ticket platform where the LLM recommends and tested rules decide.
+- **Experience:** Full-stack intern at Uptricks Services (Jul to Sep 2025): REST APIs, JWT/RBAC auth, CI/CD with GitHub Actions.
+- **Looking for:** SDE-1, backend and GenAI engineer roles. Based in Noida, open to relocation.
 
+## Featured projects
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushupadhyay399) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-upadhyay-230015266) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AyushUpadh38491) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puskaru202@gmail.com) 
+| Project | What it is | Live | Source |
+|---|---|---|---|
+| **SupportFlow AI** | RAG support-ticket automation with human-in-the-loop escalation | [Demo](https://supportflow-ai-theta.vercel.app/) · [API docs](https://supportflow-ai-rg3g.onrender.com/docs) | [Code](https://github.com/A-yushupadhyay/supportflow-ai) |
+| **LLM Evaluation Platform** | Compare prompts and models on similarity, latency and cost | Run locally (Docker Compose) | [Code](https://github.com/A-yushupadhyay/LLM-Evalution-Plateform) |
+| **Recommendation Engine** | Item-item collaborative filtering with a load-tested serving layer | Run locally | [Code](https://github.com/A-yushupadhyay/amazon-recommendation-engine) |
+| **Notify Service** | Async notification pipeline on Redis Streams with retries and a DLQ | Run locally | [Code](https://github.com/A-yushupadhyay/Notify-Service) |
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=A-yushupadhyay&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=A-yushupadhyay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-yushupadhyay&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+More: [FinSphere](https://github.com/A-yushupadhyay/Finsphere) (Next.js banking app, [demo](https://finsphere-gamma.vercel.app/)) · [WorkNest](https://github.com/A-yushupadhyay/Worknest) (MERN task manager, [demo](https://worknest-delta.vercel.app/))
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> The SupportFlow backend runs on a free tier and sleeps when idle, so the first request can take about a minute.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=A-yushupadhyay&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### SupportFlow AI
 
-###
+<img src="assets/supportflow-pipeline.svg" alt="Ticket lifecycle: ticket, classify, retrieve, generate, decide, then auto-resolve or escalate to a human agent." width="100%" />
 
-## 🐍 Contribution Snake
+- **Problem:** support teams re-answer the same questions, but billing disputes and outages must not be answered by a model guessing.
+- **What I built:** a pipeline that classifies each ticket (Gemini JSON mode, temperature 0, Pydantic-validated output), retrieves knowledge by embedding similarity, drafts a grounded reply, and routes it. Agents get a review panel and an audit log of every step.
+- **Key decision:** the LLM never decides. Eight unit-tested rules (priority, sensitive keywords, grounding, cited-source check, confidence) choose between auto-resolve and escalation. If retrieval finds nothing relevant, the model is not called at all.
+- **Engineering:** AI calls sit behind an `AIProvider` interface (Gemini plus a mock for tests), with timeouts, retries and rate limiting. 43 backend tests, GitHub Actions CI, deployed on Vercel, Render and Neon.
+- **Honest limits:** confidence scores are self-reported by the model, the retrieval threshold was tuned on a handful of sample queries rather than an evaluation set, and retrieval is a linear scan over embeddings stored as JSON (`pgvector` is the next step).
 
+**Stack:** Python, FastAPI, Next.js, TypeScript, PostgreSQL, Gemini API, Docker, GitHub Actions
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+---
 
+### LLM Evaluation Platform
 
-###
+- **Problem:** choosing a prompt or model by eye does not scale or repeat.
+- **What I built:** multi-prompt, multi-model experiments queued in Redis and run by an async worker. Each output is scored by semantic similarity (sentence-transformers `all-MiniLM-L6-v2`), with per-call latency and token-based cost tracked and a leaderboard on top.
+- **Key decision:** a `BaseLLM` abstraction plus a mock mode, so the whole pipeline runs and tests without spending API credits.
+- **Honest limits:** similarity to a reference answer is a proxy for quality, not a hallucination or correctness check.
 
+**Stack:** Python, FastAPI, React (Vite), PostgreSQL, Redis, Docker Compose
 
+---
 
+### Recommendation Engine
 
+- **Problem:** build the full path from model to serving, not just a notebook.
+- **What I built:** item-item collaborative filtering evaluated on a time-split holdout. Precision@10 is 0.0295 against 0.0263 for a popularity baseline, a **+12.2% relative** lift. Served through FastAPI with DynamoDB and Redis caching.
+- **Key decision:** failures were tested by stopping Redis and DynamoDB mid-run. A circuit breaker falls back to trending items. A load test exposed a thread-pool problem that pushed p99 latency to about 4.8 s, and fixing it brought p99 to about 30 ms at 63.6 req/s with 0 failures.
+- **Honest limits:** the A/B test is a simulation and its CTR lift was not statistically significant (p = 0.858), which the write-up says outright.
+
+**Stack:** Python, FastAPI, pandas, scikit-learn, SciPy, DynamoDB, Redis, PostgreSQL, Locust
+
+---
+
+### Notify Service
+
+- **Problem:** most notification demos stop at "send an email"; the interesting part is behaviour under failure.
+- **What I built:** a pipeline where events go through Redis Streams to workers, with retries, a dead-letter queue, scheduling, bulk fan-out, and a live UI that shows what the system is doing.
+
+```mermaid
+flowchart LR
+    UI["React UI"] -->|REST| API["Node.js API"]
+    API -->|publish| RS[("Redis Streams<br/>notify · bulk")]
+    RS --> W["Workers"]
+    W -->|stored| DB[("PostgreSQL<br/>via Prisma")]
+    W -->|live events| WS["WebSocket gateway"] --> UI
+    W -->|retries exhausted| DLQ[("Dead-letter stream")]
+```
+
+**Stack:** Node.js, Redis Streams, PostgreSQL, Prisma, WebSockets, React, Docker
+
+---
+
+## Skills
+
+Only technologies I have shipped in a project above or on my [repositories](https://github.com/A-yushupadhyay?tab=repositories).
+
+| Area | Tools |
+|---|---|
+| **Languages** | Python, TypeScript, JavaScript, C++, SQL |
+| **Backend and APIs** | FastAPI, Node.js, Express, REST, Pydantic, SQLAlchemy, Prisma, JWT auth, WebSockets / Socket.IO |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Data and messaging** | PostgreSQL, Redis (caching, queues, Streams), MongoDB, DynamoDB |
+| **AI and data** | RAG, Gemini API, OpenAI API, sentence-transformers, pandas, scikit-learn, SciPy |
+| **DevOps and tools** | Docker, Docker Compose, GitHub Actions, Git, Vercel, Render, AWS (DynamoDB) |
+
+Familiar from coursework, not yet used in a project: LangChain, NLP and text mining.
+
+## Competitive programming
+
+| Platform | Result |
+|---|---|
+| [Codeforces](https://codeforces.com/profile/puskaru2003) | Specialist, max rating 1478 |
+| LeetCode | Rating 1800+ |
+| [CodeChef](https://www.codechef.com/users/ayus124) | 4-star |
+
+800+ problems solved, mostly in C++ (graphs, DP, trees).
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-yushupadhyay/A-yushupadhyay/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-yushupadhyay/A-yushupadhyay/output/github-snake.svg" />
+  <img alt="Contribution graph rendered as a snake animation" src="https://raw.githubusercontent.com/A-yushupadhyay/A-yushupadhyay/output/github-snake.svg" width="100%" />
+</picture>
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/ayush-upadhyay-230015266) · [Portfolio](https://portfolio-ayush-upadhyay.vercel.app) · [Email](mailto:puskaru202@gmail.com)

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Ayush Upadhyay: Backend Systems, Python, GenAI. Open to SDE-1, backend and GenAI engineer roles." width="100%" />
+<img src="assests/hero.svg" alt="Ayush Upadhyay: Backend Systems, Python, GenAI. Open to SDE-1, backend and GenAI engineer roles." width="100%" />
 
 [**Projects**](#featured-projects) &nbsp;·&nbsp; [**Skills**](#skills) &nbsp;·&nbsp; [**Competitive programming**](#competitive-programming) &nbsp;·&nbsp; [**Contact**](#contact)
 
@@ -31,7 +31,7 @@ More: [FinSphere](https://github.com/A-yushupadhyay/Finsphere) (Next.js banking 
 
 ### SupportFlow AI
 
-<img src="assets/supportflow-pipeline.svg" alt="Ticket lifecycle: ticket, classify, retrieve, generate, decide, then auto-resolve or escalate to a human agent." width="100%" />
+<img src="assests/supportflow-pipeline.svg" alt="Ticket lifecycle: ticket, classify, retrieve, generate, decide, then auto-resolve or escalate to a human agent." width="100%" />
 
 - **Problem:** support teams re-answer the same questions, but billing disputes and outages must not be answered by a model guessing.
 - **What I built:** a pipeline that classifies each ticket (Gemini JSON mode, temperature 0, Pydantic-validated output), retrieves knowledge by embedding similarity, drafts a grounded reply, and routes it. Agents get a review panel and an audit log of every step.
